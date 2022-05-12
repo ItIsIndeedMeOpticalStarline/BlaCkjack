@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "card.h": "c",
+        "player.h": "c"
+    }
+}
